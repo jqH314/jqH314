@@ -122,21 +122,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jqH314\&layout=compact\&hide_border=true\&theme=default)
 
 
-
-***
-
-### 📫 联系我
-
-
-
-* 📧 邮箱：`your_email@example.com`  ← 请替换成你的真实邮箱
-
-* 💬 微信：`your_wechat`  ← 请替换
-
-* 📝 技术博客：（有掘金 / CSDN / 博客园 链接就填上，没有可以先删掉这行）
-
-
-
 ***
 
 ⭐ 如果这些项目对你有帮助，欢迎 Star 一下～
